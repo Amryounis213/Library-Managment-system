@@ -1,0 +1,13 @@
+.dataTables_wrapper .dataTables_filter {
+    display: none;
+}
+.td-ltr {
+    direction: ltr;
+}
+html,
+body {
+    font-family: "Cairo" , "sans-serif"; !important;
+}
+#kt_header {
+    background-color: white;
+}
